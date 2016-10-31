@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\bin\x86\Debug\TestRS232.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\bin\x86\Debug\TestRS232.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\bin\x86\Debug\TestRS232.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\obj\x86\Debug\TestRS232.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\obj\x86\Debug\TestRS232.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\obj\x86\Debug\TestRS232.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\obj\x86\Debug\TestRS232.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\obj\x86\Debug\TestRS232.pdb

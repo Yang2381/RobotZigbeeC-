@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\obj\x64\Debug\TestRS232.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TestRS232\TestRS232\obj\x64\Debug\TestRS232.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\TestRS232\TestRS232\bin\x64\Debug\RobotControlCIT255Project.exe.config
+\\mac\home\documents\visual studio 2015\Projects\TestRS232\TestRS232\bin\x64\Debug\RobotControlCIT255Project.exe
+\\mac\home\documents\visual studio 2015\Projects\TestRS232\TestRS232\bin\x64\Debug\RobotControlCIT255Project.pdb
+\\mac\home\documents\visual studio 2015\Projects\TestRS232\TestRS232\obj\x64\Debug\RobotControlCIT255Project.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\TestRS232\TestRS232\obj\x64\Debug\RobotControlCIT255Project.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\TestRS232\TestRS232\obj\x64\Debug\RobotControlCIT255Project.exe
+\\mac\home\documents\visual studio 2015\Projects\TestRS232\TestRS232\obj\x64\Debug\RobotControlCIT255Project.pdb
